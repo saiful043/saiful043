@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-### Technologies I Work With
-
-### Technologies I Work With
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 5px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50" style="margin: 0 5px">
